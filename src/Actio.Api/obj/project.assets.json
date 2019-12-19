@@ -13478,11 +13478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Api\\Actio.Api.csproj",
+      "projectUniqueName": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Api\\Actio.Api.csproj",
       "projectName": "Actio.Api",
-      "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Api\\Actio.Api.csproj",
+      "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Api\\Actio.Api.csproj",
       "packagesPath": "C:\\Users\\apeluso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Api\\obj\\",
+      "outputPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13501,8 +13501,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Common\\Actio.Common.csproj": {
-              "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Common\\Actio.Common.csproj"
+            "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Common\\Actio.Common.csproj"
             }
           }
         }

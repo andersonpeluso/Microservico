@@ -15,7 +15,7 @@ namespace Actio.Api.Controllers
     public class ActivitiesController : Controller
     {
         private readonly IBusClient _busClient;
-        private readonly IActivityRepository activityRepository; // It's a sample. In a more realistic scenario, it should be an application service here.
+        private readonly IActivityRepository activityRepository; // É uma amostra. Em um cenário mais realista, deve ser um serviço de inscrição aqui.
 
         public ActivitiesController(IBusClient busClient,IActivityRepository activityRepository){
             this._busClient=busClient;

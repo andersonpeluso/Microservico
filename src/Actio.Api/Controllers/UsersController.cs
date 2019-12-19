@@ -24,17 +24,17 @@ namespace Actio.Api.Controllers
         {
             if (command == null)
             {
-                this.logger.LogTrace("command is null");
+                this.logger.LogTrace("command é null");
             }
             if (string.IsNullOrWhiteSpace(command.Email))
             {
-                this.logger.LogTrace("email is IsNullOrWhiteSpace");
+                this.logger.LogTrace("email é Null ou branco");
             }
             this.logger.LogTrace($"Command: {command.Email} {command.Name} {command.Password}");
 
             await this._busClient.PublishAsync(command);
 
-            this.logger.LogTrace("Event published");
+            this.logger.LogTrace("Evento publicado");
 
             return Accepted();
         }

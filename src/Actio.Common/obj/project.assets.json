@@ -8910,11 +8910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectUniqueName": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Common\\Actio.Common.csproj",
       "projectName": "Actio.Common",
-      "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Common\\Actio.Common.csproj",
       "packagesPath": "C:\\Users\\apeluso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Common\\obj\\",
+      "outputPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

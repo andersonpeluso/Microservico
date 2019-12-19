@@ -12495,11 +12495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Services.Activities.Tests\\Actio.Services.Activities.Tests.csproj",
+      "projectUniqueName": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Services.Activities.Tests\\Actio.Services.Activities.Tests.csproj",
       "projectName": "Actio.Services.Activities.Tests",
-      "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Services.Activities.Tests\\Actio.Services.Activities.Tests.csproj",
+      "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Services.Activities.Tests\\Actio.Services.Activities.Tests.csproj",
       "packagesPath": "C:\\Users\\apeluso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Services.Activities.Tests\\obj\\",
+      "outputPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Services.Activities.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12518,8 +12518,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {
-              "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj"
+            "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {
+              "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj"
             }
           }
         }

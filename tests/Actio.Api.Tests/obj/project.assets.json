@@ -12466,11 +12466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Api.Tests\\Actio.Api.Tests.csproj",
+      "projectUniqueName": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Api.Tests\\Actio.Api.Tests.csproj",
       "projectName": "Actio.Api.Tests",
-      "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Api.Tests\\Actio.Api.Tests.csproj",
+      "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Api.Tests\\Actio.Api.Tests.csproj",
       "packagesPath": "C:\\Users\\apeluso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\tests\\Actio.Api.Tests\\obj\\",
+      "outputPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\tests\\Actio.Api.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12489,8 +12489,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Api\\Actio.Api.csproj": {
-              "projectPath": "C:\\Users\\apeluso\\Desktop\\aspnet-core-simple-microservices-sample-master\\aspnet-core-simple-microservices-sample-master\\src\\Actio.Api\\Actio.Api.csproj"
+            "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Api\\Actio.Api.csproj": {
+              "projectPath": "c:\\documentos\\apeluso\\Meus documentos\\GitHub\\Microservico\\src\\Actio.Api\\Actio.Api.csproj"
             }
           }
         }
